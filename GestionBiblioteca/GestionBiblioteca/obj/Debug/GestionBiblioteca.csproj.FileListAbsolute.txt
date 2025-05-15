@@ -1,0 +1,15 @@
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\bin\Debug\GestionBiblioteca.exe.config
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\bin\Debug\GestionBiblioteca.exe
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\bin\Debug\GestionBiblioteca.pdb
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.csproj.AssemblyReference.cache
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.FormLogin.resources
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.FormMDI.resources
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.Properties.Resources.resources
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.csproj.GenerateResource.cache
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.exe
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.pdb
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.FormConsultaLibros.resources
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.FormGestionLibros.resources
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.GestionUsuarios.resources
+C:\Users\perro\source\repos\GestionBiblioteca\GestionBiblioteca\obj\Debug\GestionBiblioteca.FormRegistro.resources
